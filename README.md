@@ -1,25 +1,23 @@
-### HI there 👋
+### HI, I'm Alona 👋
 
-<!--
-**q2tt/q2tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Junior Frontend Developer (React)
 
-Here are some ideas to get you started:
+- 📫 How to reach me:  Chernivtsi, Ukraine
+- 📧 alenaartamonova066@gmail.com
+- ⚡ Fun fact: I don't watch movies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technology stack
 
+![html](https://img.shields.io/badge/-html-5d82d8?style=for-the-badge&logo=html&logoColor=47C5FB)
+![css](https://img.shields.io/badge/-css-5d82d8?style=for-the-badge&logo=css&logoColor=47C5FB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-5d82d8?style=for-the-badge&logo=JavaScript&logoColor=ffe201)
 
-## I'm a junior frontend developer 👋
-
-![Flutter](https://img.shields.io/badge/-Flutter-5d82d8?style=for-the-badge&logo=appveyor&logoColor=47C5FB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-5d82d8?style=for-the-badge&logo=JavaScript&logoColor=47C5FB)
-![HTML](https://img.shields.io/badge/-HTML-5d82d8?style=for-the-badge&logo=HTML&logoColor=47C5FB)
-![SCSS](https://img.shields.io/badge/-SCSS-5d82d8?style=for-the-badge&logo=scss&logoColor=47C5FB)
+![Redux](https://img.shields.io/badge/-Redux-5d82d8?style=for-the-badge&logo=Redux&logoColor=47C5FB)
 ![React](https://img.shields.io/badge/-React-5d82d8?style=for-the-badge&logo=React&logoColor=47C5FB)
+
+![Sass](https://img.shields.io/badge/-Sass-5d82d8?style=for-the-badge&logo=Sass&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/-Figma-5d82d8?style=for-the-badge&logo=Figma&logoColor=ffffff)
+![jq](https://img.shields.io/badge/-jQuery-5d82d8?style=for-the-badge&logo=jQuery&logoColor=3227b7)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-5d82d8?style=for-the-badge&logo=Bootstrap&logoColor=3227b7)
+
+
