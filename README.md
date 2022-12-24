@@ -2,9 +2,14 @@
 
 #### Junior Frontend Developer (React)
 
+- 👀 I’m interested in JavaScript, React
+- 💞️ I’m looking for collaborate on commercial development
+
 - 📫 How to reach me:  Chernivtsi, Ukraine
 - 📧 alenaartamonova066@gmail.com
+
 - ⚡ Fun fact: I don't watch movies
+
 
 ### Technology stack
 
