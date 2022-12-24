@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ## I'm a junior frontend developer 👋
 
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=appveyor&logoColor=47C5FB)
-
+![Flutter](https://img.shields.io/badge/-Flutter-5d82d8?style=for-the-badge&logo=appveyor&logoColor=47C5FB)
+!HTML](https://img.shields.io/badge/-HTML-5d82d8?style=for-the-badge&logo=appveyor&logoColor=47C5FB)
