@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 ## I'm a junior frontend developer 👋
 
 ![Flutter](https://img.shields.io/badge/-Flutter-5d82d8?style=for-the-badge&logo=appveyor&logoColor=47C5FB)
-!HTML](https://img.shields.io/badge/-HTML-5d82d8?style=for-the-badge&logo=appveyor&logoColor=47C5FB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-5d82d8?style=for-the-badge&logo=appveyor&logoColor=47C5FB)
+![HTML](https://img.shields.io/badge/-HTML-5d82d8?style=for-the-badge&logo=appveyor&logoColor=47C5FB)
+![SCSS](https://img.shields.io/badge/-SCSS-5d82d8?style=for-the-badge&logo=appveyor&logoColor=47C5FB)
+![React](https://img.shields.io/badge/-React-5d82d8?style=for-the-badge&logo=appveyor&logoColor=47C5FB)
