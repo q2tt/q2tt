@@ -1,12 +1,11 @@
 ### HI, I'm Alona 👋
 
-#### Junior Frontend Developer (React)
+#### Shopify |  Frontend | React Developer 
 
 - 👀 I’m interested in JavaScript, React
 - 💞️ I’m looking for collaborate on commercial development
 
 - 📫 How to reach me:  Chernivtsi, Ukraine
-- 📧 alenaartamonova066@gmail.com
 
 - ⚡ Fun fact: I don't watch movies
 
